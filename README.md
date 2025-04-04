@@ -33,3 +33,10 @@ vi /root/.config/nvim/lua/user/plugins.lua
 :checkhealth nvim-treesitter
 :q
 ```
+
+# trigger p10k
+editting theme "powerlevel10k/powerlevel10k" in .zshrc
+```
+vi ~/.zshrc
+source ~/.zshrc
+```
